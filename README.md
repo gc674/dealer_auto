@@ -1,5 +1,5 @@
-# dealer_auto
-Exercitiul I
+# Python auto dealer
+```
 Un dealer auto are pe stoc o serie de masini care se gasesc in variabila cars.
 from operator import itemgetter as el_doi
 cars = (
@@ -50,3 +50,25 @@ price integer
 Statement-ul sql pentru crearea tabelului este:
 CREATE TABLE IF NOT EXISTS cars (id INTEGER, brand VARCHAR(30), items
 integer, price integer)
+```
+## Usage
+
+```python
+Just launch the program and you will see the solutions on each request.
+```
+
+## Contributing
+```
+Always work on progress.
+Pull requests are welcome. 
+For major changes, please open an issue first to discuss what you would like to change.
+```
+
+## License
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+## Language
+```
+Romanian
+Sorry, translation to be added
+```
